@@ -1,0 +1,79 @@
+/* General page */
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #f5f3ef;
+    color: #222;
+}
+
+/* Navbar */
+.navbar {
+    padding: 1rem 1.5rem;
+}
+
+.navbar-brand {
+    font-weight: 900;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.brand-highlight {
+    color: #d4a017;
+}
+
+.nav-link {
+    font-weight: 700;
+    margin-left: 1rem;
+}
+
+.nav-link:hover,
+.nav-link.active {
+    color: #d4a017 !important;
+}
+
+.navbar-text {
+    color: #ddd !important;
+    font-style: italic;
+}
+
+/* Mobile navbar icon */
+.navbar-toggler {
+    border-color: #d4a017;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+/* Main content */
+main {
+    min-height: 70vh;
+}
+
+/* Footer */
+.oshea-footer {
+    background-color: #212529;
+    color: #fff;
+    border-top: 5px solid #d4a017;
+}
+
+.footer-title {
+    color: #d4a017;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.footer-icon {
+    color: #d4a017;
+    font-size: 1.4rem;
+    margin: 0 0.6rem;
+    text-decoration: none;
+}
+
+.footer-icon:hover {
+    color: #fff;
+}
+
+.oshea-footer hr {
+    border-color: rgba(255, 255, 255, 0.25);
+}
