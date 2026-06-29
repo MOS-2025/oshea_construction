@@ -71,8 +71,10 @@ Typical User Stories included:
 Each completed User Story was linked to the project board before implementation.
 
 ## Agile Board
-
-Insert screenshot and link to GitHub Projects or Trello.
+ 
+  
+ 
+ 
 
 ---
 
@@ -120,8 +122,7 @@ The project uses PostgreSQL as its relational database.
 | Slug | SlugField |
 | Author | ForeignKey |
 | Featured Image | CloudinaryField |
-| Content | TextField |
-| Excerpt | TextField |
+| Content | TextField 
 | Created On | DateTimeField |
 | Updated On | DateTimeField |
 | Status | IntegerField |
@@ -305,10 +306,10 @@ Google Lighthouse testing produced satisfactory scores for:
 
 - Performance
 - Accessibility
-- Best Practices
 - SEO
 
-*(Insert Lighthouse screenshots.)*
+<img width="697" height="556" alt="image" src="https://github.com/user-attachments/assets/cfc11f38-d0da-4f77-84ca-b80204c6482a" />
+
 
 ---
 
