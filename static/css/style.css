@@ -78,11 +78,11 @@ main {
     border-color: rgba(255, 255, 255, 0.25);
 }
 .masthead-image {
-    width: 80%;
-    max-width: 500px;
-    height: 300px;
-    object-fit: center;
+    width: 80%
+    max-width: 450px;
+    height: 220px;
+    object-fit: cover;
     display: block;
-    position: center;
+    margin: 20px auto;
     border-radius: 6px;
 }
