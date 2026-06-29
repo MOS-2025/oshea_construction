@@ -112,7 +112,8 @@ The project uses PostgreSQL as its relational database.
 
 ## Entity Relationship Diagram
 
-*(Insert ER Diagram.)*
+<img width="692" height="781" alt="image" src="https://github.com/user-attachments/assets/4c0a3161-a5b2-4e54-9f64-05862fb37d63" />
+
 
 ## Post Model
 
