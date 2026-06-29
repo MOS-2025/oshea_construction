@@ -77,3 +77,12 @@ main {
 .oshea-footer hr {
     border-color: rgba(255, 255, 255, 0.25);
 }
+.masthead-image {
+    width: 100%;
+    max-width: 500px;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    border-radius: 6px;
+}
