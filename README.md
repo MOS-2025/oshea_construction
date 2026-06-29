@@ -71,8 +71,11 @@ Typical User Stories included:
 Each completed User Story was linked to the project board before implementation.
 
 ## Agile Board
-
-Insert screenshot and link to GitHub Projects or Trello.
+ 
+Link to user stories
+  
+ https://github.com/users/MOS-2025/projects/6
+ 
 
 ---
 
@@ -110,7 +113,8 @@ The project uses PostgreSQL as its relational database.
 
 ## Entity Relationship Diagram
 
-*(Insert ER Diagram.)*
+<img width="692" height="781" alt="image" src="https://github.com/user-attachments/assets/4c0a3161-a5b2-4e54-9f64-05862fb37d63" />
+
 
 ## Post Model
 
@@ -120,8 +124,7 @@ The project uses PostgreSQL as its relational database.
 | Slug | SlugField |
 | Author | ForeignKey |
 | Featured Image | CloudinaryField |
-| Content | TextField |
-| Excerpt | TextField |
+| Content | TextField 
 | Created On | DateTimeField |
 | Updated On | DateTimeField |
 | Status | IntegerField |
@@ -305,10 +308,10 @@ Google Lighthouse testing produced satisfactory scores for:
 
 - Performance
 - Accessibility
-- Best Practices
 - SEO
 
-*(Insert Lighthouse screenshots.)*
+<img width="697" height="556" alt="image" src="https://github.com/user-attachments/assets/cfc11f38-d0da-4f77-84ca-b80204c6482a" />
+
 
 ---
 
