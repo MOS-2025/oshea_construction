@@ -78,9 +78,9 @@ main {
     border-color: rgba(255, 255, 255, 0.25);
 }
 .masthead-image {
-    width: 80%
-    max-width: 450px;
-    height: 220px;
+    width: 100%;
+    max-width: 600px;
+    height: 350px;
     object-fit: cover;
     display: block;
     margin: 20px auto;
