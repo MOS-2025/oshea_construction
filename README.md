@@ -282,7 +282,8 @@ Possible future improvements include:
 
 Custom HTML validated using the W3C HTML Validator.
 
-*(Insert validation screenshots.)*
+<img width="1872" height="787" alt="image" src="https://github.com/user-attachments/assets/52d23564-1f94-408d-860b-b558bd3b15bf" />
+
 
 ---
 
@@ -290,7 +291,8 @@ Custom HTML validated using the W3C HTML Validator.
 
 CSS validated using the W3C CSS Validator.
 
-*(Insert screenshots.)*
+<img width="1865" height="876" alt="image" src="https://github.com/user-attachments/assets/836f9cab-68b7-4c71-a2c2-607d28512768" />
+
 
 ---
 
