@@ -12,7 +12,7 @@ The project demonstrates a database-backed MVC application built using Python, D
 
 **Live Site:** [*( Heroku URL)*](https://oshea-construction-2026-bd0fe03e6fcc.herokuapp.com/)
 
-**Repository:** *(GitHub Repository URL)*
+**Repository:**  https://github.com/MOS-2025/oshea_construction
 
 ---
 
