@@ -291,7 +291,8 @@ Custom HTML validated using the W3C HTML Validator.
 
 CSS validated using the W3C CSS Validator.
 
-*(Insert screenshots.)*
+<img width="1865" height="876" alt="image" src="https://github.com/user-attachments/assets/836f9cab-68b7-4c71-a2c2-607d28512768" />
+
 
 ---
 
